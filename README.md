@@ -9,11 +9,7 @@
   <h4>Python</h4>
     
   </br>  
-  <h4>Spring</h4>
-  <h4>Django</h4>
-  <h4>Android</h4>
-  <h4>Unity</h4>
-  <h4>Tensorflow</h4>
+  <h4>Spring / Django/ Android/ Unity / Tensorflow</h4>
   
 </p>
 
