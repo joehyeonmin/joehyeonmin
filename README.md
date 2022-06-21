@@ -1,4 +1,21 @@
-### Hi there 👋
+### 안녕하세요 조현민입니다. 👋
+
+<h3>🌱 Skills 🌱</h3>
+<p>
+  <h4>C++</h4>
+  <h4>C#</h4>
+  <h4>Java</h4>
+  <h4>Kotlin</h4>
+  <h4>Python</h4>
+    
+  </br>  
+  <h4>Spring</h4>
+  <h4>Django</h4>
+  <h4>Android</h4>
+  <h4>Unity</h4>
+  <h4>Tensorflow</h4>
+  
+</p>
 
 <!--
 **joehyeonmin/joehyeonmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
