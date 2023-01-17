@@ -3,13 +3,12 @@
 <h3>🌱 Skills 🌱</h3>
 <p>
   <h4>C++</h4>
-  <h4>C#</h4>
   <h4>Java</h4>
   <h4>Kotlin</h4>
   <h4>Python</h4>
     
   </br>  
-  <h4>Spring / Django / Android / Unity / Tensorflow</h4>
+  <h4>Spring / Django / Android / Pytorch<h4>
   
 </p>
 
